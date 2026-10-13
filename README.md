@@ -1,8 +1,7 @@
 # PharmaNexus (by Nexus-Tech Solutions)
 
-Pharmacy Management System — maintained and rebranded by Nexus-Tech Solutions as **PharmaNexus**.
+Pharmacy Management System — maintained by Nexus-Tech Solutions as **PharmaNexus**.
 
-> **Credit:** Based on the open-source Pharmacy Management System originally developed by the Andro Ciphers team. Original UI branding has been replaced; original authorship is acknowledged here.
 
 ## Installation Steps (Configuration)
 1. Download and unzip the file on your local system.
@@ -32,4 +31,4 @@ Login details for cashier:
 - Password: abc123
 
 ---
-*PharmaNexus — maintained by Nexus-Tech Solutions. Original project by Andro Ciphers.*
+*PharmaNexus — developed by Nexus-Tech Solutions. 
